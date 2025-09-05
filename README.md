@@ -13,24 +13,6 @@ This repository is perfect for students, beginners, and anyone who wants to prac
 
 ---
 
-## 📂 Folder Structure
-
-
-python-programs/
-│
-├── basics/           # Basic Python programs
-├── loops/            # For and while loop programs
-├── functions/        # Function-based programs
-├── strings/          # String manipulation programs
-├── lists/            # List-related programs
-├── file\_handling/    # Programs on files
-├── oops/             # Object Oriented Programming
-└── misc/             # Miscellaneous programs
-
-
-
----
-
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
