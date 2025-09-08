@@ -21,8 +21,8 @@ while True:
 
     if choice in ('1', '2', '3', '4'):
         try:
-            num1 = float(input("Enter First Number:"))
-            num2 = float(input("Enter Second Number"))
+            num1 = float(input("Enter First Number: "))
+            num2 = float(input("Enter Second Number: "))
         except ValueError:
             print("Invalid Input. Please Enter a Number.")
             continue
